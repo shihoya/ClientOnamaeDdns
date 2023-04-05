@@ -1,5 +1,7 @@
 # ClientOnamaeDdns
 
+![aaa](http://img.shields.io/badge/license-MIT-blue.svg?style=flat)
+
 お名前ドットコム DDNS クライアント
 
 ## 使用方法
